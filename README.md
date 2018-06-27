@@ -9,9 +9,9 @@ the following models are available for modelisation
 * VHMM (multidimentional hidden hidden markov model)
 * VARHMM (multidimentional autoregressive hidden hidden markov model)
 
-Est<model>.m for calibrating the models
-Gof<model>.m for Goodness-of-fit test
-Sim<model>.m for simulation
+Est\<model\>.m for calibrating the models \n
+Gof\<model\>.m for Goodness-of-fit test \n
+Sim\<model\>.m for simulation \n
 
 
 to simulate some processes, calibrate the different models and run Godness-of-fit test, run:
@@ -30,6 +30,10 @@ the following models are available for hedging:
 * Optimal Hedging with ARHMM Returns and Monte Carlo approximation (HedgingError_ARHMM_MC.m OR HedgingARHMM.m + Hedging_Error_ARHMM_ac.m 
 
 
+to price an option and hedge it under multiple simulations, run:
+```
+simulate_and_hedge.m
+```
 
 
 
