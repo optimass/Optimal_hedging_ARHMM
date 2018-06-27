@@ -37,7 +37,7 @@ simulate_and_hedge.m
 
 this script will reproduce Figure 8:
 
-![alt text](https://github.com/optimass/Optimal_hedging_ARHMM/blob/master/simulate_and_hedge_fig.pdf)
+![alt text](simulate_and_hedge_fig.pdf)
 
 
 
