@@ -35,6 +35,9 @@ to price an option and hedge it under multiple simulations, run:
 simulate_and_hedge.m
 ```
 
+this script will reproduce Figure 8:
+
+![alt text](https://github.com/optimass/Optimal_hedging_ARHMM/blob/master/simulate_and_hedge.eps)
 
 
 
